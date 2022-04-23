@@ -7,7 +7,8 @@ A collection of simple and easy to comprehend machine learning blogs
 [Pruning](https://towardsdatascience.com/build-better-decision-trees-with-pruning-8f467e73b107)\
 [Gini Impurity, Entropy, Classification Error](https://sebastianraschka.com/faq/docs/decision-tree-binary.html)\
 [Survey of the Decision Trees Algorithms (CART, C4.5, ID3)](https://medium.com/@abedinia.aydin/survey-of-the-decision-trees-algorithms-cart-c4-5-id3-97df842831cd)\
-[ID3, C4.5, C5.0, CART decision tree difference](https://blog.actorsfit.com/a?ID=01800-16f8ea67-422e-4850-b0b0-3749e5181112)
+[ID3, C4.5, C5.0, CART decision tree difference](https://blog.actorsfit.com/a?ID=01800-16f8ea67-422e-4850-b0b0-3749e5181112)\
+[Decision Tree Learning](https://pages.cs.wisc.edu/~dpage/cs760/decision-trees.pdf)
 
 ## Domain Adaptation
 ### Data Set Shift
