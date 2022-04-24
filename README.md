@@ -14,6 +14,9 @@ A collection of simple and easy to comprehend machine learning blogs
 [Adaboost](https://towardsdatascience.com/understanding-adaboost-for-decision-tree-ff8f07d2851)\
 [Gradient Boosting](https://www.geeksforgeeks.org/ml-gradient-boosting/)
 
+## Imbalanced Datasets
+[Imbalanced datasets](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
+
 
 ## Domain Adaptation
 ### Data Set Shift
