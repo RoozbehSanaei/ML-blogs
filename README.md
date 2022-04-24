@@ -15,7 +15,7 @@ A collection of simple and easy to comprehend machine learning blogs
 [Gradient Boosting](https://www.geeksforgeeks.org/ml-gradient-boosting/)
 
 ## Imbalanced Datasets
-[Imbalanced datasets](https://towardsdatascience.com/methods-for-dealing-with-imbalanced-data-5b761be45a18)
+[Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
 
 
 ## Domain Adaptation
