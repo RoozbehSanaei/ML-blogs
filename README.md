@@ -12,7 +12,7 @@ A collection of simple and easy to comprehend machine learning blogs
 ## Ensemble Methods
 [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)\
 [Adaboost](https://towardsdatascience.com/understanding-adaboost-for-decision-tree-ff8f07d2851)\
-[Gradinet Boosting](https://www.geeksforgeeks.org/ml-gradient-boosting/)
+[Gradient Boosting](https://www.geeksforgeeks.org/ml-gradient-boosting/)
 
 
 ## Domain Adaptation
