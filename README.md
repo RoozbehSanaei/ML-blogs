@@ -14,6 +14,9 @@ A collection of simple and easy to comprehend machine learning blogs
 [Adaboost](https://towardsdatascience.com/understanding-adaboost-for-decision-tree-ff8f07d2851)\
 [Gradient Boosting](https://www.geeksforgeeks.org/ml-gradient-boosting/)
 
+## Linear Algebra
+Eigenvalue
+
 ## Imbalanced Datasets
 [Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
 
