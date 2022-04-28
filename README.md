@@ -15,7 +15,7 @@ A collection of simple and easy to comprehend machine learning blogs
 [Gradient Boosting](https://www.geeksforgeeks.org/ml-gradient-boosting/)
 
 ## Linear Algebra
-Eigenvalue
+EigenValues and EigenVectors
 
 ## Imbalanced Datasets
 [Imbalanced datasets](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
