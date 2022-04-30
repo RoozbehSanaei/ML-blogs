@@ -9,6 +9,10 @@ A collection of simple and easy to comprehend machine learning blogs
 [Pruning](https://towardsdatascience.com/build-better-decision-trees-with-pruning-8f467e73b107)\
 [Gini Impurity, Entropy, Classification Error](https://sebastianraschka.com/faq/docs/decision-tree-binary.html)
 
+## Support Vector Machines
+[Support Vector Machine](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
+
+
 ## Ensemble Methods
 [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)\
 [Adaboost](https://towardsdatascience.com/understanding-adaboost-for-decision-tree-ff8f07d2851)\
