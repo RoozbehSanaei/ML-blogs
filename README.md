@@ -11,7 +11,7 @@ A collection of simple and easy to comprehend machine learning blogs
 
 ## Support Vector Machines
 [Support Vector Machine](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)\
-[Support Vector Machine](https://towardsdatascience.com/demystifying-maths-of-svm-13ccfe00091e)
+[Support Vector Machine](https://towardsdatascience.com/understanding-support-vector-machine-part-1-lagrange-multipliers-5c24a52ffc5e)
 
 
 ## Ensemble Methods
