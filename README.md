@@ -14,6 +14,8 @@ A collection of simple and easy to comprehend machine learning blogs
 [Support Vector Machine](https://towardsdatascience.com/understanding-support-vector-machine-part-1-lagrange-multipliers-5c24a52ffc5e)\
 [SVM vs logisitic regression](https://stats.stackexchange.com/questions/270501/can-we-say-svm-and-logistic-regression-are-the-same-model-under-different-loss-f)
 
+## Kmeans and Expectation Maximization
+[K-means clustering](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)
 
 ## Ensemble Methods
 [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)\
