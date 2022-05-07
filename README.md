@@ -15,7 +15,7 @@ A collection of simple and easy to comprehend machine learning blogs
 [SVM vs logisitic regression](https://stats.stackexchange.com/questions/270501/can-we-say-svm-and-logistic-regression-are-the-same-model-under-different-loss-f)
 
 ## Expectation Maximization (Kmeans, and GMM)
-[K-means clustering](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)
+[K-means clustering](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)\
 [Gaussian Mixture Modeling](https://towardsdatascience.com/demystifying-gaussian-mixture-models-and-expectation-maximization-a66575deaea6)
 
 ## Ensemble Methods
