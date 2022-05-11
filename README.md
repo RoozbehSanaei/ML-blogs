@@ -20,7 +20,8 @@ A collection of simple and easy to comprehend machine learning blogs
 
 ## Explainablanation Methods
 [Lime](https://christophm.github.io/interpretable-ml-book/lime.html)\
-[Shapley and Shap]([Shapley](https://christophm.github.io/interpretable-ml-book/shapley.html)
+[Shapley and Shap](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3)\
+[Gaussian Process](https://thegradient.pub/gaussian-process-not-quite-for-dummies/)
 
 
 ## Ensemble Methods
