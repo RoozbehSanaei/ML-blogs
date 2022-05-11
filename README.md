@@ -20,8 +20,7 @@ A collection of simple and easy to comprehend machine learning blogs
 
 ## Explainablanation Methods
 [Lime](https://christophm.github.io/interpretable-ml-book/lime.html)\
-[Shapley](https://christophm.github.io/interpretable-ml-book/shapley.html)
-
+[Shapley and Shap]([Shapley](https://christophm.github.io/interpretable-ml-book/shapley.html)
 
 
 ## Ensemble Methods
