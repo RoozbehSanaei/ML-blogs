@@ -18,6 +18,12 @@ A collection of simple and easy to comprehend machine learning blogs
 [K-means clustering](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)\
 [Gaussian Mixture Modeling](https://towardsdatascience.com/demystifying-gaussian-mixture-models-and-expectation-maximization-a66575deaea6)
 
+## Explainablanation Methods
+[Lime](https://christophm.github.io/interpretable-ml-book/lime.html)\
+[Shapley](https://christophm.github.io/interpretable-ml-book/shapley.html)
+
+
+
 ## Ensemble Methods
 [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)\
 [Adaboost](https://towardsdatascience.com/understanding-adaboost-for-decision-tree-ff8f07d2851)\
