@@ -10,9 +10,10 @@ A collection of simple and easy to comprehend machine learning blogs
 [K-means clustering](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)\
 [Gaussian Mixture Modeling](https://towardsdatascience.com/demystifying-gaussian-mixture-models-and-expectation-maximization-a66575deaea6)
 
-## Explainablanation Methods
+## Explanation Methods
 [Lime](https://christophm.github.io/interpretable-ml-book/lime.html)\
 [Shapley and Shap](https://towardsdatascience.com/shap-shapley-additive-explanations-5a2a271ed9c3)\
+[Counterfactual Explanations](https://christophm.github.io/interpretable-ml-book/counterfactual.html)
 
 
 ## Linear Algebra
